@@ -11,9 +11,6 @@ Welcome to the **GDG SCU Backend Development - Assignments Organization**! This 
 6. **Open a Pull Request (PR)** to the original assignment repository.
 7. **Request a review** from your instructor or mentor.
 
-### 🎥 Assignment Submission Tutorial
-*A video tutorial on how to submit assignments will be added here soon.*
-
 ## 🎯 Grading Policy
 - **Code Quality & Best Practices**: 30%
 - **Functionality & Accuracy**: 40%
